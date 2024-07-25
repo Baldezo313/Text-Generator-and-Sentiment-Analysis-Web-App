@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+openai
+requests
+uvicorn
+python-dotenv
+transformers
+tensorflow
+tf-keras
